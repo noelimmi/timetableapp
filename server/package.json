@@ -1,0 +1,23 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "backend for time table app",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noelimmi/timetableapp.git"
+  },
+  "keywords": [
+    "time",
+    "table"
+  ],
+  "author": "immi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/noelimmi/timetableapp/issues"
+  },
+  "homepage": "https://github.com/noelimmi/timetableapp#readme"
+}
