@@ -19,5 +19,13 @@
   "bugs": {
     "url": "https://github.com/noelimmi/timetableapp/issues"
   },
-  "homepage": "https://github.com/noelimmi/timetableapp#readme"
+  "homepage": "https://github.com/noelimmi/timetableapp#readme",
+  "dependencies": {
+    "bcrypt": "^3.0.4",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.10"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
 }
